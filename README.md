@@ -1,13 +1,9 @@
-### Olá! Me chamo Wallison Rodrigues
-
-- 🔭 Atualmente não trabalho!!!
-- 🌱 Estudando python e java script
-- 😄 Pronouns: ele/dele
+ ## Olá! Me chamo Wallison Rodrigues---->Pronous: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/wallison0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallison0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallison0&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallison0&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallison0&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block"><br>
