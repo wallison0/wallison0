@@ -3,11 +3,11 @@
 <div align="center">
   <a href="https://github.com/wallison0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallison0&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/img width="48%" src="link">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallison0&layout=compact&langs_count=7&theme=midnight-purple"/img width="48%" src="link">
+  
 </div>
  
 
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
